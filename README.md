@@ -1,6 +1,7 @@
 METR4202_Lab2
 =============
 NOTE v5.m is main
+
 GLASS HALF FULL
 A program useful for hospitality environments, using the XBox 360 Kinect to determine:
  - What type of cups are on a table (both cups and glasses)
